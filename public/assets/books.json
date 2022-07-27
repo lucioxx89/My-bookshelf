@@ -1,0 +1,858 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 792,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GrVPEAAAQBAJ",
+      "etag": "obFfadXjyeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GrVPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Kite Runner",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-03-05",
+        "description": "The #1 New York Times bestselling novel beloved by millions of readers the world over. “A vivid and engaging story that reminds us how long his people [of Afghanistan] have been struggling to triumph over the forces of violence—forces that continue to threaten them even today.\" –New York Times Book Review The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, caught in the tragic sweep of history, The Kite Runner transports readers to Afghanistan at a tense and crucial moment of change and destruction. A powerful story of friendship, it is also about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons—their love, their sacrifices, their lies. Since its publication in 2003 Kite Runner has become a beloved, one-of-a-kind classic of contemporary literature, touching millions of readers, and launching the career of one of America's most treasured writers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594631931"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "159463193X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GrVPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GrVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=GrVPEAAAQBAJ&dq=THE+KITE+RUNNER&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=GrVPEAAAQBAJ&dq=THE+KITE+RUNNER&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kite_Runner.html?hl=&id=GrVPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GrVPEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The #1 New York Times bestselling novel beloved by millions of readers the world over. “A vivid and engaging story that reminds us how long his people [of Afghanistan] have been struggling to triumph over the forces of violence—forces ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MH48bnzN0LUC",
+      "etag": "06saTx7qWlc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MH48bnzN0LUC",
+      "volumeInfo": {
+        "title": "The Kite Runner",
+        "subtitle": "Rejacketed",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2011-09-05",
+        "description": "Over 21 million copies sold worldwide",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408824856"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "140882485X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3480,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MH48bnzN0LUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MH48bnzN0LUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=MH48bnzN0LUC&printsec=frontcover&dq=THE+KITE+RUNNER&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=MH48bnzN0LUC&dq=THE+KITE+RUNNER&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kite_Runner.html?hl=&id=MH48bnzN0LUC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/The_Kite_Runner-sample-pdf.acsm?id=MH48bnzN0LUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MH48bnzN0LUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Afghanistan, 1975: Twelve-year-old Amir is desperate to win the local kite-fighting tournament and his loyal friend Hassan promises to help him."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5eu-DwAAQBAJ",
+      "etag": "yEhw63YLGus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5eu-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cometas en el cielo",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "SALAMANDRA",
+        "publishedDate": "2011-12-06",
+        "description": "Un fenómeno imparable: con más de 23 millones de ejemplares vendidosen 54 lenguas y un millón en castellano, Cometas en el cielo puede considerarse un clásico contemporáneo. Sobre el telón de fondo de un Afganistán respetuoso de sus ricas tradiciones ancestrales, la vida en Kabul durante el invierno de 1975 se desarrolla con toda la intensidad, la pujanza y el colorido de una ciudad confiada en su futuro e ignorante de que se avecina uno de los períodos más cruentos que han padecido los milenarios pueblos que la habitan. Con apenas doce años, Amir se propone ganar la competición anual de cometas de la forma que sea, incluso a costa de su inseparable Hassan, un hazara de clase inferior que ha sido su sirviente y compañero de juegos desde la más tierna infancia. Así, empeñado en demostrarle a su padre que ya es todo un hombre, Amir pondrá en peligro una amistad fraguada a lo largo de años de enfrentarse a todos los peligros imaginables, y aprenderá una verdad que lo acompañaráel resto de su vida. Esta es la conmovedora historia de dos padres y dos hijos, de su amistad y de cómo la casualidad puede marcar un hito inesperado en nuestro destino. Una novela inolvidable, de la mano de uno de los autores más leídos en todo el mundo. Reseña: «Hosseini entona un canto a la amistad y a la lealtad, le presta palabras que se convierten en estrofas emocionantes.» S. Martín, El Norte de Castilla",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788415470151"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8415470150"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5eu-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5eu-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=5eu-DwAAQBAJ&pg=PP1&dq=THE+KITE+RUNNER&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5eu-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5eu-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.64,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5eu-DwAAQBAJ&rdid=book-5eu-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6640000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Cometas_en_el_cielo-sample-epub.acsm?id=5eu-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Cometas_en_el_cielo-sample-pdf.acsm?id=5eu-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5eu-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un fenómeno imparable: con más de 23 millones de ejemplares vendidosen 54 lenguas y un millón en castellano, Cometas en el cielo puede considerarse un clásico contemporáneo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i-y-DwAAQBAJ",
+      "etag": "/o5EdooU/Pw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i-y-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cometas en el cielo (novela gráfica)",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "SALAMANDRA",
+        "publishedDate": "2012-08-22",
+        "description": "La novela gráfica de la aclamda Cometas en el cielo, la conmovedora historia de dos padres y dos hijos, de su amistad y de cómo la casualidad puede convertirse en hito inesperado de nuestro destino. Obsesionado por demostrarle a su padre que ya es todo un hombre, Amir se propone ganar la competición anual de cometas de la forma que sea, incluso a costa de su inseparable Hassan, un hazara de clase inferior que ha sido su sirviente y compañero de juegos desde la más tierna infancia. A pesar del fuerte vínculo que los une, después de tantos años de haberse defendido mutuamente de todos los peligros imaginables, Amir se aprovecha de la fidelidad sin límites de su amigo y comete una traición que los separará de forma definitiva. Así, con apenas doce años, el joven Amir recordará durante toda su vida aquellos días en los que perdió uno de los tesoros más preciados del hombre: la amistad. Sobre el telón de fondo de un Afganistán respetuoso de sus ricas tradiciones ancestrales, la vida en Kabul durante el invierno de 1975 se desarrolla con toda la intensidad, la pujanza y el colorido de una ciudad confiada en su futuro e ignorante de que se avecina uno de los periodos más cruentos y tenebrosos que han padecido los milenarios pueblos que la habitan. Reseña: «Inolvidable... una de esas historias que permanecen en la memoria durante años.» Isabel Allende «Esta poderosa primera novela narra una historia de terrible crueldad pero también de redención a través del amor [...] llena de imágenes cautivadoras [...] vívida y fascinante.» New York Times «Un asombroso debut [...] no es común que un libro sea tan oportuno y, a la vez, de tan alta calidad literaria.» Publishers Weekly «Un debut extraordinario que retrata la lucha cotidiana de un pueblo arrasado por los acontecimientos.» Washington Post «Hosseini [...]narra una ardiente historia de redención duramente conseguida, enmarcada en una exuberante descripción de la vida y la cultura afganas: irresistible.» Kirkus Reviews",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788415629177"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8415629176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i-y-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i-y-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=i-y-DwAAQBAJ&printsec=frontcover&dq=THE+KITE+RUNNER&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=i-y-DwAAQBAJ&dq=THE+KITE+RUNNER&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cometas_en_el_cielo_novela_gr%C3%A1fica.html?hl=&id=i-y-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Cometas_en_el_cielo_novela_gr%C3%A1fica-sample-pdf.acsm?id=i-y-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i-y-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La novela gráfica de la aclamda Cometas en el cielo, la conmovedora historia de dos padres y dos hijos, de su amistad y de cómo la casualidad puede convertirse en hito inesperado de nuestro destino."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DOssDwAAQBAJ",
+      "etag": "R0111cM93yM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DOssDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Kite Runner (Play Script)",
+        "subtitle": "Based on the novel by Khaled Hosseini",
+        "authors": [
+          "Matthew Spangler"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2018-02-06",
+        "description": "The script for the stage production of Khaled Hosseini's first and internationally bestselling novel, The Kite Runner, as adapted by playwright Matthew Spangler. The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father's servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed. Now adapted for the stage, the story is about the power of reading, the price of betrayal, and the possibility of redemption, and is an exploration of the influence of fathers over sons--their love, their sacrifices, their lies. A sweeping saga of family, love, and friendship told against the devastating backdrop of the history of Afghanistan over the last thirty years, The Kite Runner is an unusual and powerful story that has become a beloved, one-of-a-kind classic. This adaptation was first performed at Wyndham's Theatre, London, in December 2016.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525534464"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525534466"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DOssDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DOssDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=DOssDwAAQBAJ&printsec=frontcover&dq=THE+KITE+RUNNER&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DOssDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DOssDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.46,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 10.46,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DOssDwAAQBAJ&rdid=book-DOssDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10460000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 10460000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/The_Kite_Runner_Play_Script-sample-epub.acsm?id=DOssDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DOssDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father&#39;s servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KgVezgAACAAJ",
+      "etag": "lixUdYNRdr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KgVezgAACAAJ",
+      "volumeInfo": {
+        "title": "The Kite Runner Graphic Novel",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2011",
+        "description": "Traces the unlikely friendship of a wealthy Afghan youth and a servant's son, in a tale that spans the final days of Afghanistan's monarchy through the atrocities of the present day, in graphic novel format.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "159448547X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594485473"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KgVezgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KgVezgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=KgVezgAACAAJ&dq=THE+KITE+RUNNER&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=KgVezgAACAAJ&dq=THE+KITE+RUNNER&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kite_Runner_Graphic_Novel.html?hl=&id=KgVezgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KgVezgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Traces the unlikely friendship of a wealthy Afghan youth and a servant&#39;s son, in a tale that spans the final days of Afghanistan&#39;s monarchy through the atrocities of the present day, in graphic novel format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RQJAAQAAQBAJ",
+      "etag": "4fvuxVm3UyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RQJAAQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Kite Runner",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2013-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408845820"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408845822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 3474,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RQJAAQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RQJAAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=RQJAAQAAQBAJ&dq=THE+KITE+RUNNER&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=RQJAAQAAQBAJ&dq=THE+KITE+RUNNER&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kite_Runner.html?hl=&id=RQJAAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RQJAAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Afghanistan, 1975: Twelve-year-old Amir is desperate to win the local kite-fighting tournament and his loyal friend Hassan promises to help him."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pIl4DQAAQBAJ",
+      "etag": "BR6UwMamH5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pIl4DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Summary and Analysis of The Kite Runner",
+        "subtitle": "Based on the Book by Khaled Hosseini",
+        "authors": [
+          "Worth Books"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2016-11-15",
+        "description": "So much to read, so little time? This brief overview of The Kite Runner tells you what you need to know—before or after you read Khaled Hosseini’s book. Crafted and edited with care, Worth Books set the standard for quality and give you the tools you need to be a well-informed reader. This short summary and analysis of The Kite Runner by Khaled Hosseini includes: Historical context Chapter-by-chapter summaries Analysis of the main characters Themes and symbols Important quotes Fascinating trivia Glossary of terms Supporting material to enhance your understanding of the original work About The Kite Runner by Khaled Hosseini: Khaled Hosseini’s New York Times–bestselling novel is an epic and powerful story of love, unconditional support, and forgiveness. Chronicling the friendship of a boy raised with privilege and another living a life of servitude, the spellbinding tale spans thirty years of Afghanistan’s troubled history—from the Soviet invasion to the days of Taliban control. With characters who demonstrate incredible loyalty, cruelty, and redemption, The Kite Runner is an astonishing testament to the strength and resilience of the human spirit. The summary and analysis in this ebook are intended to complement your reading experience and bring you closer to a great work of fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781504043113"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1504043111"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pIl4DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pIl4DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=pIl4DQAAQBAJ&printsec=frontcover&dq=THE+KITE+RUNNER&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pIl4DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pIl4DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.15,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 4.15,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pIl4DQAAQBAJ&rdid=book-pIl4DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Summary_and_Analysis_of_The_Kite_Runner-sample-epub.acsm?id=pIl4DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Summary_and_Analysis_of_The_Kite_Runner-sample-pdf.acsm?id=pIl4DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pIl4DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This short summary and analysis of The Kite Runner by Khaled Hosseini includes: Historical context Chapter-by-chapter summaries Analysis of the main characters Themes and symbols Important quotes Fascinating trivia Glossary of terms ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BsCCAwAAQBAJ",
+      "etag": "GNliup0czS8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BsCCAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Kite Runner (new)",
+        "authors": [
+          "Khaled Hosseini"
+        ],
+        "publisher": "Qanita",
+        "publishedDate": "2008-02-01",
+        "description": "The Kite Runner, sebuah novel perdana Khaled Hosseini, telah mencatat berbagai prestasi: 1. Diterjemahkan ke dalam 42 bahasa. 2. Terjual lebih dari 8 juta kopi di seluruh dunia. 3. Lebih dari 2 tahun bertengger di daftar New York Times Bestseller. 4. Paramount Pictures telah membuat filmnya. Sinopsis Aku memiliki satu kesempatan terakhir untuk mengambil keputusan, untuk menentukan apa jadinya diriku. Aku bisa melangkah memasuki gang itu, membela Hassan dan menerima apa pun yang mungkin menimpaku. Atau, aku bisa melarikan diri. Akhirnya, aku melarikan diri. Amir telah mengkhianati Hassan, satu-satunya sahabatnya. Saudaranya. Rasa bersalah kini menghantuinya. Menyingkirkan Hassan dari kehidupannya adalah pilihan tersulit yang harus diambilnya. Namun setelah Hassan pergi, tak ada lagi yang tersisa dari masa kecilnya. Seperi layang-layang putus, sebagian dari dirinya terbang bersama angin. Tetapi, masa lalu yang telah terkubur dalam-dalam pun senantiasa menyeruak kembali. Hadir membawa luka-luka lama. Dan seperti rapuhnya layang-layang, tak kuasa menahan badai, Amir harus menghadapi kenangannya yang mewujud kembali. The Kite Runner adalah sebuah kisah penuh kekuatan tentang persaudaraan, kasih sayang, pengkhianatan, dan penderitaan. Khaled Hosseini dengan brilian menghadirkan sisi-sisi lain Afghanistan, negeri indah yang hingga kini masih menyimpan duka. Di tengah belantara puing di Kota Kabul, akankah amir menemukan kebagahiaan yang kelak menyapu kesedihannya? [Mizan, Qanita, Novel, Inspirasi, Motivasi, Indonesia]",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789793269757"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9793269758"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BsCCAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BsCCAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.es/books?id=BsCCAwAAQBAJ&printsec=frontcover&dq=THE+KITE+RUNNER&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BsCCAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BsCCAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.89,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2.89,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BsCCAwAAQBAJ&rdid=book-BsCCAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2890000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2890000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/The_Kite_Runner_new-sample-epub.acsm?id=BsCCAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BsCCAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Khaled Hosseini dengan brilian menghadirkan sisi-sisi lain Afghanistan, negeri indah yang hingga kini masih menyimpan duka."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MKNwCgAAQBAJ",
+      "etag": "EdInHxIB9bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MKNwCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for Khaled Hosseini's The Kite Runner",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-03-13",
+        "description": "A Study Guide for Khaled Hosseini's \"The Kite Runner,\" excerpted from Gale's acclaimed Literary News For Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Literary News For Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410320421"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410320421"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MKNwCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MKNwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=MKNwCgAAQBAJ&printsec=frontcover&dq=THE+KITE+RUNNER&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MKNwCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MKNwCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 3.79,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MKNwCgAAQBAJ&rdid=book-MKNwCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3790000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/A_Study_Guide_for_Khaled_Hosseini_s_The-sample-epub.acsm?id=MKNwCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/A_Study_Guide_for_Khaled_Hosseini_s_The-sample-pdf.acsm?id=MKNwCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MKNwCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study Guide for Khaled Hosseini&#39;s &quot;The Kite Runner,&quot; excerpted from Gale&#39;s acclaimed Literary News For Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; ..."
+      }
+    }
+  ]
+}
