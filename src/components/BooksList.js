@@ -3,13 +3,13 @@ import React, { useState, useEffect } from "react";
 const BooksList = () => {
   const [booksList, setBooksList] = useState([]);
 
-  // const [searchBook, setSearchBook] = useState("");
+  const [searchBook, setSearchBook] = useState("");
 
   //function fetch to add then to useEffect, cleaner
   const getBooksList = async () => {
     const response = await fetch(
       // `https://www.googleapis.com/books/v1/volumes?q=rowling&key=AIzaSyDDRDhXJtVOYtKlI-azc7_3321mnAaMDJo&maxResults=40`
-      "https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=AIzaSyB_1-_2uklrOMSr49BIDIvBvhcPDkhyHJE"
+      `https://www.googleapis.com/books/v1/volumes?q=jhon&key=AIzaSyB_1-_2uklrOMSr49BIDIvBvhcPDkhyHJE&maxResults=40`
       // "http://localhost:3000/books.json"
     );
     const data = await response.json();
@@ -22,29 +22,30 @@ const BooksList = () => {
     getBooksList();
   }, []);
 
-  // const onSubmitHandler = (event) => {
-  //   event.preventdefault();
-  //   getBooksList();
-  // };
+  const onSubmitHandler = (event) => {
+    event.preventdefault();
+    getBooksList();
+  };
 
-  // const onChangeHandler = (event) => {
-  //   setSearchBook(event.target.value);
-  //   console.log("target", event.target.value);
-  // };
+  const onChangeHandler = (event) => {
+    setSearchBook(event.target.value);
+    console.log("target", event.target.value);
+  };
 
   return (
     <div>
       <h1> My bookshelf</h1>
 
-      {/* <form>
+      <form onSubmit={onSubmitHandler}>
         <input
           type="text"
           name="book"
           placeholder="Search your book"
-          value={searchBook}
+          // value={searchBook}
+          onChange={onChangeHandler}
         />
         <button type="submit">Search</button>
-      </form> */}
+      </form>
 
       {booksList.map((item, index) => {
         let bookCover =
