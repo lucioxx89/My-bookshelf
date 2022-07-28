@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 
-const API_KEY = process.env.REACT_APP_API_KEY;
+// const API_KEY = process.env.REACT_APP_API_KEY;
 
 const BooksList = () => {
   const [booksList, setBooksList] = useState([]);
 
-  const [searchBook, setSearchBook] = useState("");
+  // const [searchBook, setSearchBook] = useState("");
 
   // option 2, before fetch
   // useEffect(() => {
@@ -14,37 +14,44 @@ const BooksList = () => {
 
   //function fetch to add then to useEffect, cleaner
 
-  const onSubmitHandler = (event) => {
-    event.preventdefault();
+  // const onSubmitHandler = (event) => {
+  //   //preventDefault wasnt working, solution found on the web
+  //   if (event && event.preventDefault) {
+  //     event.preventDefault();
+  //   }
+  // };
 
-    const getBooksList = async () => {
-      const response = await fetch(
-        // `https://www.googleapis.com/books/v1/volumes?q=rowling&key=AIzaSyDDRDhXJtVOYtKlI-azc7_3321mnAaMDJo&maxResults=40`
-        `https://www.googleapis.com/books/v1/volumes?q=rambo&key=${API_KEY}&maxResults=40`
-        // "http://localhost:3000/books.json"
-      );
-      const data = await response.json();
+  const getBooksList = async () => {
+    const response = await fetch(
+      //   `https://www.googleapis.com/books/v1/volumes?q=london&key=${API_KEY}&maxResults=40`
+      // );
 
-      setBooksList(data.items);
-      console.log("array", data.items);
-    };
+      `https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=AIzaSyB_1 - _2uklrOMSr49BIDIvBvhcPDkhyHJE`
+    );
+    // "http://localhost:3000/books.json"
+    const data = await response.json();
+
+    // setSearchBook();
+    setBooksList(data.items);
+
+    console.log("array", data.items);
   };
 
-  //option 1
-  // useEffect(() => {
-  //   getBooksList();
-  // }, []);
+  // option 1
+  useEffect(() => {
+    // onSubmitHandler();
+    getBooksList();
+  }, []);
 
-  const onChangeHandler = (event) => {
-    setSearchBook(event.target.value);
-    console.log("target", event.target.value);
-  };
+  // const onChangeHandler = (event) => {
+  //   // setSearchBook(event.target.value);
+  //   console.log("target", event.target.value);
+  // };
 
   return (
     <div>
-      <h1> My bookshelf</h1>
-
-      <form onSubmit={onSubmitHandler}>
+      <h1>My bookshelf</h1>
+      {/* <form onSubmit={onSubmitHandler}>
         <input
           type="text"
           name="book"
@@ -53,7 +60,7 @@ const BooksList = () => {
           onChange={onChangeHandler}
         />
         <button type="submit">Search</button>
-      </form>
+      </form> */}
 
       {booksList.map((item, index) => {
         let bookCover =
