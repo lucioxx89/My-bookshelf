@@ -10,46 +10,10 @@ const BooksList = () => {
   const [loading, setLoading] = useState("");
   const [searchBook, setSearchBook] = useState("");
 
-  //OPTION MORE CLEAN BUT PROBLEM WITH USEeFFECT --KEEP IT--
-  //function fetch to add then to useEffect, cleaner
-
-  // const onSubmitHandler = (event) => {
-  //   //preventDefault wasnt working, solution found on the web
-  //   if (event && event.preventDefault) {
-  //     event.preventDefault();
-  //   }
-  // };
-
-  // const getBooksList = async () => {
-  //   const response = await fetch(
-  //     //   `https://www.googleapis.com/books/v1/volumes?q=london&key=${API_KEY}&maxResults=40`
-  //     // );
-
-  //     `https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=AIzaSyB_1 - _2uklrOMSr49BIDIvBvhcPDkhyHJE`
-  //   );
-  //   // "http://localhost:3000/books.json"
-  //   const data = await response.json();
-
-  //   // setSearchBook();
-  //   setBooksList(data.items);
-
-  //   console.log("array", data.items);
-  // };
-
-  // // option 1
-  // useEffect(() => {
-  //   // onSubmitHandler();
-  //   getBooksList();
-  // }, []);
-
-  // const onChangeHandler = (event) => {
-  //   // setSearchBook(event.target.value);
-  //   console.log("target", event.target.value);
-  // };
-
-  //  TO MODIFY
+  //  OPTION 1
   const onSubmitHandler = (event) => {
     event.preventDefault();
+    setError("");
     setLoading("Loading");
     getBooksList();
   };
@@ -66,6 +30,8 @@ const BooksList = () => {
       setError(message);
       throw new Error(message);
     }
+
+    setError("");
     setBooksList([]);
     const data = await response.json();
 
@@ -82,7 +48,8 @@ const BooksList = () => {
     console.log("target", event.target.value);
   };
 
-  // OPTION WITH FETCH LIKE IN WEATHER APP  --WORKS--
+  // OPTION 2: FETCH AND .THEN, LIKE IN WEATHER APP  --WORKS--
+
   // const onSubmitHandler = (event) => {
   //   setLoading("Loading...");
   //   event.preventDefault();
