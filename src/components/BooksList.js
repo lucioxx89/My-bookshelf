@@ -43,6 +43,10 @@ const BooksList = () => {
     console.log("array", data.items);
   };
 
+  // useEffect(() => {
+  //   getBooksList(searchBook);
+  // }, [searchBook]);
+
   const onChangeHandler = (event) => {
     setSearchBook(event.target.value);
     console.log("target", event.target.value);
