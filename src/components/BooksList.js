@@ -115,10 +115,10 @@ const BooksList = () => {
               <p>{item.volumeInfo.title}</p>
               <p>{item.volumeInfo.authors} </p>
 
-              <p> {item.volumeInfo.publishedDate}</p>
+              <p>{item.volumeInfo.publishedDate}</p>
               <img src={bookCover} alt="cover_img" />
               <p>{item.volumeInfo.description}</p>
-              <p>{item.volumeInfo.pageCount}</p>
+              <p>Pages: {item.volumeInfo.pageCount}</p>
             </div>
           );
         }
