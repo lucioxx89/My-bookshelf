@@ -43,6 +43,8 @@ const BooksList = () => {
     console.log("array", data.items);
   };
 
+  // without using effect
+
   // useEffect(() => {
   //   getBooksList(searchBook);
   // }, [searchBook]);
@@ -52,7 +54,7 @@ const BooksList = () => {
     console.log("target", event.target.value);
   };
 
-  // OPTION 2: FETCH AND .THEN, LIKE IN WEATHER APP  --WORKS--
+  // OPTION 2: FETCH AND .THEN, LIKE IN WEATHER APP  --WORKS-- more promise chain
 
   // const onSubmitHandler = (event) => {
   //   setLoading("Loading...");
